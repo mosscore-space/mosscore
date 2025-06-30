@@ -26,9 +26,9 @@ Arch Linux · Neovim · VS Code · Dart · Flutter · Python · Node.js
 
 ### 📫 Connect with me:
 
-* 🌱 *YouTube*: [Mosscore](#) (www.youtube.com/@moss_core)
+* 🌱 *YouTube*: www.youtube.com/@moss_core
 * 🪴 *Mail*: [mosscore.dev@gmail.com](mailto:mosscore.dev@gmail.com)
-* 🌿 *Twitter*: [@mosscore](#) (if you create one)
+* 🌿 *Twitter*: [@mosscore](#) (under construction)
 
 ---
 
