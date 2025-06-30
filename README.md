@@ -2,7 +2,7 @@
 
 ## 🌿 mosscore
 
-*“Quietly growing, steadily coding.”*
+> *“Quietly growing, steadily coding.”*
 
 Hey there 👋, I’m *Moss* – a cozy, curious coder learning to build things one mossy byte at a time. I love minimalist workflows, Linux tinkering, and creating clean, aesthetic setups to make coding a calm, enjoyable experience.
 
@@ -15,7 +15,7 @@ Hey there 👋, I’m *Moss* – a cozy, curious coder learning to build things 
 
 ### 🛠️ Tech I’m using:
 
-> Arch Linux · Neovim · VS Code · Dart · Flutter · Python · Node.js
+Arch Linux · Neovim · VS Code · Dart · Flutter · Python · Node.js
 
 ### ✨ Goals:
 
