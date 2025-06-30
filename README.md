@@ -15,7 +15,7 @@ Hey there 👋, I’m *Moss* – a cozy, curious coder learning to build things 
 
 ### 🛠️ Tech I’m using:
 
-Arch Linux · Neovim · VS Code · Dart · Flutter · Python · Node.js
+> Arch Linux · Neovim · VS Code · Dart · Flutter · Python · Node.js
 
 ### ✨ Goals:
 
