@@ -30,7 +30,7 @@ Hey there 👋, I’m *Moss* – a cozy, curious coder learning to build things 
 * 🪴 *Mail*: [mosscore.dev@gmail.com](mailto:mosscore.dev@gmail.com)
 * 🌿 *Twitter*: [@mosscore](#) (under construction)
 
----
+##
 
 > “Deep roots, clean code.”
 
