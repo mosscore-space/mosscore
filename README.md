@@ -35,3 +35,4 @@ Hey there 👋, I’m *Moss* – a cozy, curious coder learning to build things 
 > “Deep roots, clean code.”
 
 ---
+![WhatsApp Image 2025-06-30 at 23 12 47](https://github.com/user-attachments/assets/a944a8b7-c22a-4290-ad7f-00279b45ccf9)
